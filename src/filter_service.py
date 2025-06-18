@@ -28,7 +28,7 @@ import collections
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from .model_filter import ModelFilter
-from .moderation import TextModeration
+from .text_moderation import TextModeration
 from .censure import SimpleRegexCensor
 
 
