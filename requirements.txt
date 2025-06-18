@@ -6,3 +6,4 @@ transliterate>=1.10.2
 pydantic>=2.9.0
 sentencepiece>=0.1.99
 protobuf>=4.24.4
+transformers
